@@ -35,8 +35,8 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/alphabouw.png",
-        type: "image/png",
+        url: "/logobouw.jpeg",
+        type: "image/jpeg",
       },
       {
         url: "/icon-light-32x32.png",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
         type: "image/svg+xml",
       },
     ],
-    apple: "/alphabouw.png",
+    apple: "/logobouw.jpeg",
   },
 }
 

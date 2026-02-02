@@ -31,11 +31,11 @@ export function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <a href="#" className="flex items-center gap-3">
           <Image
-            src="/alphabouw.png"
+            src="/logobouw.jpeg"
             alt="Alfa Bouw"
-            width={40}
-            height={40}
-            className="size-10 object-contain"
+            width={56}
+            height={56}
+            className="size-14 object-contain"
             priority
           />
           <span className="font-mono text-sm uppercase tracking-widest text-foreground">Alfa Bouw</span>
