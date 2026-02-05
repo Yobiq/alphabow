@@ -7,27 +7,27 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Alfa Bouw BV | Bouw in alle zaken, van A tot Z - Renovatie & Nieuwbouw",
+  title: "Alpha bouw BV | Bouw in alle zaken, van A tot Z - Renovatie & Nieuwbouw",
   description:
-    "Professionele bouwoplossingen van A tot Z. Alfa Bouw BV is uw betrouwbare partner voor nieuwbouw, renovatie, onderhoud en advies. Verbonden met Sword BV en Goteam voor complete projectondersteuning.",
+    "Professionele bouwoplossingen van A tot Z. Alpha bouw BV is uw betrouwbare partner voor nieuwbouw, renovatie, onderhoud en advies. Verbonden met Sword BV en Goteam voor complete projectondersteuning.",
   keywords: [
     "bouw",
     "nieuwbouw",
     "renovatie",
     "onderhoud",
     "bouwadvies",
-    "alfa bouw",
+    "alpha bouw",
     "bouwbedrijf",
     "nederland",
     "sword bv",
     "goteam",
   ],
-  authors: [{ name: "Alfa Bouw BV" }],
-  creator: "Alfa Bouw BV",
-  publisher: "Alfa Bouw BV",
+  authors: [{ name: "Alpha bouw BV" }],
+  creator: "Alpha bouw BV",
+  publisher: "Alpha bouw BV",
   generator: "v0.app",
   openGraph: {
-    title: "Alfa Bouw BV | Bouw in alle zaken, van A tot Z",
+    title: "Alpha bouw BV | Bouw in alle zaken, van A tot Z",
     description: "Professionele bouwoplossingen voor nieuwbouw, renovatie en onderhoud",
     type: "website",
     locale: "nl_NL",

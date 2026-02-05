@@ -32,13 +32,13 @@ export function Header() {
         <a href="#" className="flex items-center gap-3">
           <Image
             src="/logobouw.jpeg"
-            alt="Alfa Bouw"
+            alt="Alpha bouw"
             width={56}
             height={56}
             className="size-14 object-contain"
             priority
           />
-          <span className="font-mono text-sm uppercase tracking-widest text-foreground">Alfa Bouw</span>
+          <span className="font-mono text-sm uppercase tracking-widest text-foreground">Alpha bouw</span>
         </a>
 
         {/* Desktop Navigation */}

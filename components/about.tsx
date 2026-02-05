@@ -7,7 +7,7 @@ export function About() {
         <div className="grid gap-16 lg:grid-cols-2 lg:gap-20">
           {/* Left column: Text content */}
           <div>
-            <p className="mb-6 font-mono text-xs uppercase tracking-[0.3em] text-muted-foreground">Over Alfa Bouw</p>
+            <p className="mb-6 font-mono text-xs uppercase tracking-[0.3em] text-muted-foreground">Over Alpha bouw</p>
             <h2 className="mb-10 text-balance text-4xl font-extralight leading-tight tracking-tight text-foreground md:text-5xl">
               Uw partner in
               <br />
@@ -15,7 +15,7 @@ export function About() {
             </h2>
             <div className="space-y-6 text-pretty text-lg leading-relaxed text-muted-foreground">
               <p>
-                Alfa Bouw BV is uw betrouwbare partner voor alle bouwwerkzaamheden. Met een passie voor kwaliteit en
+                Alpha bouw BV is uw betrouwbare partner voor alle bouwwerkzaamheden. Met een passie voor kwaliteit en
                 vakmanschap realiseren wij projecten waar u trots op kunt zijn.
               </p>
               <p>

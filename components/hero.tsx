@@ -8,7 +8,7 @@ export function Hero() {
 
       <div className="relative z-10 mx-auto max-w-6xl text-center">
         <div className="mb-16 inline-block border border-foreground/10 bg-background/30 px-8 py-4 backdrop-blur-sm">
-          <p className="font-mono text-xs uppercase tracking-[0.3em] text-foreground/80">Alfa Bouw BV</p>
+          <p className="font-mono text-xs uppercase tracking-[0.3em] text-foreground/80">Alpha bouw BV</p>
         </div>
 
         <h1 className="mb-10 text-balance font-sans text-5xl font-extralight leading-[1.05] tracking-tight text-foreground md:text-7xl lg:text-8xl">
