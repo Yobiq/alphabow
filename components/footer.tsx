@@ -48,11 +48,11 @@ export function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="mailto:info@alfabouwbv.nl"
+                  href="mailto:Info@alpgr.com"
                   className="flex items-start gap-3 text-background/70 transition-colors hover:text-background"
                 >
                   <Mail className="mt-0.5 size-4 shrink-0" />
-                  <span>info@alfabouwbv.nl</span>
+                  <span>Info@alpgr.com</span>
                 </a>
               </li>
               <li>
